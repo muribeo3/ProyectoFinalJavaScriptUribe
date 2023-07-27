@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mariana Uribe",
+        "curso": "Inteligencia Artificial",
+        "cant_notas": 3,
+        "array_notas": [
+            8,
+            9,
+            10
+        ],
+        "promedio": 9
+    },
+    {
+        "id": 2,
+        "nombre": "Emily Gonzalez",
+        "curso": "JavaScript",
+        "cant_notas": 7,
+        "array_notas": [
+            6,
+            2,
+            10,
+            10
+        ],
+        "promedio": 4
+    },
+    {
+        "id": 3,
+        "nombre": "Isabel Urrego",
+        "curso": "Inteligencia Artificial",
+        "cant_notas": 3,
+        "array_notas": [
+            10,
+            9,
+            5
+        ],
+        "promedio": 8
+    },
+    {
+        "id": 4,
+        "nombre": "Juana Rojas",
+        "curso": "JavaScript",
+        "cant_notas": 4,
+        "array_notas": [
+            10,
+            7,
+            6,
+            5
+        ],
+        "promedio": 7
+    },
+    {
+        "id": 5,
+        "nombre": "Juliana Restrepo",
+        "curso": "Desarrollo Web",
+        "cant_notas": 2,
+        "array_notas": [
+            1,
+            3
+        ],
+        "promedio": 1
+    }
+]

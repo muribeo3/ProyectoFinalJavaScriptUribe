@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /*tipografía barbie*/
+    font-family: 'Barbie', cursive;
+}
+
+.darkMode {
+    color: white;
+    background-color: black;
+}
+
+.ofertaLibro {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+
+.bd-navbar {
+    /* color rosado barbie*/
+    background-color: #FF69B4;
+}
+
+.letra {
+    color: #FF69B4;
+}
